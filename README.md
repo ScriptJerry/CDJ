@@ -1,5 +1,5 @@
 # CDJ
-An mod DiscordJS bot
+A mod DiscordJS bot
 
 Things to you know how to use the Bot
 
